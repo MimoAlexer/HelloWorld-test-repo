@@ -1,4 +1,4 @@
-public static class PapNettolohn
+public static class Nettolohn
 {
     public static void Main()
     {

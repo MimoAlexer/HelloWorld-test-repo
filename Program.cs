@@ -32,7 +32,7 @@ public static class Program
                 StringOperationen.Main();
                 break;
             case "5":
-                PapNettolohn.Main();
+                Nettolohn.Main();
                 break;
             case "6":
                 CodeLesen.Main();
